@@ -1,7 +1,7 @@
 const projectData=[
     {
         id:1,
-        projectTitle: "Admin Dashboard",
+        projectTitle: "Admin Dash Board",
         projectType: "Full Stack",
         projectDesc: "A full stack admin dashoboard that can be customized to visualize data from a database",
         projectTags: ["React.js", "Node.js", "Express.js", "MongoDB", "CSS", "D3.js","RESTAPI"],
