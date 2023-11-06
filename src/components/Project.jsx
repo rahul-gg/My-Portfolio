@@ -5,7 +5,7 @@ import { faCode } from '@fortawesome/free-solid-svg-icons'
 const Project = (props) => {
 
     const listElements= props.projectData.projectTags.map(item=>{
-        return <li className="project-tag">{item}</li>
+        return <li className="project-tag" key={item.id}>{item.value}</li>
     })
 
     return (
