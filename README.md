@@ -1,3 +1,3 @@
 # My-Portfolio
 
-Developer Portfolio live at rahulgg.netlify.app
+Developer Portfolio live at https://rahulgg.netlify.app/
