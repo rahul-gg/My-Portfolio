@@ -8,7 +8,7 @@ const projectData=[
             {id:1,value:"React.js"},{id:2,value:"Node.js"}, {id:3,value:"Express.js"} , {id:4,value:"MongoDB"}, {id:5,value:"CSS"}, {id:6,value:"D3.js"}, {id:7,value:"RESTAPI"}
         
         ],
-        projectLink: "https://github.com/rahul-gg"
+        projectLink: "https://github.com/rahul-gg/Dashboard"
     },
 
     {
